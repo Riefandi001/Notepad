@@ -1,6 +1,16 @@
 body {
     background: #ffffff;
     background-image: url(C:/Users/hp/Downloads/FANDI/Wallpaper/images.jpg);
+    color: white;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+  text-align: center;
 }
 
 h1{
